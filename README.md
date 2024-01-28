@@ -8,7 +8,7 @@ This data is data from Human Resource Management Office.
 
 If you are a complete beginner on MySQL, this tutorial series on my channel ([Code With Prince](https://youtube.com/playlist?list=PLU7aW4OZeUzyfoucs0NJ1DN6cXOuZ-uUa)) can be of great help to you to understanding MySQL for a beginner and all the code in this project. 
 
-If you wish to collaborate with me on any project, you can get in touch with me through email: [codingshark206@gmail.com](codingshark206@gmail.com).
+If you wish to collaborate with me on any project, you can get in touch with me through email: Shakinikannan1473@gmail.com
 
 To support the work that I do such as this one, you can [buy me coffee](https://www.buymeacoffee.com/princez3). Thanks and enjoy.
 
