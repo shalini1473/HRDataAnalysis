@@ -2,7 +2,6 @@
 ## HR Data Analysis Project
 
 
-
 ### Objectives Of Analysis
 
 
